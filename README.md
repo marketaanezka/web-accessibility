@@ -3,7 +3,7 @@
 This is a simple HTML/CSS website for practicing most common web accessibility features. 
 
 ## How to work with this repo 
-- Clone repository
+- Fork and clone repository
 - Run `index.html` locally
 - Fix accessibility issues and test your fixes
 
