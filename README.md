@@ -1,4 +1,4 @@
-# Sample to practice web accessibility
+# Practice web accessibility website
 
 This is a simple HTML/CSS website for practicing most common web accessibility features. 
 
